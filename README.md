@@ -24,5 +24,8 @@ Here I am going to use:
 - GitHub Account - This is a free option with Codespace to quickly spin up the developer environment. 
 - Local development with Visual Studio Code and Python runtime in Windows or in Linux (Ubuntu or remote server).
 
+## Contact 
+- LinkedIn https://www.linkedin.com/in/wrijughosh
+![LinkedIn](images/LinkedInQR.jpeg)
 
 
