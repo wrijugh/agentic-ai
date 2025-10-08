@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Lock files
+poetry.lock
+Pipfile.lock
+uv.lock
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+
+# Misc
+*.log
+*.tmp
+*.bak
+
+# Ignore all in images except .gitkeep
+images/*
+!images/.gitkeep
