@@ -1,4 +1,4 @@
-# agentic-ai
+# A Journey to Agentic AI
 Agentic AI Series of Videos for YouTube https://www.youtube.com/@TechTalksWriju
 
 ## Flow of the tracks
