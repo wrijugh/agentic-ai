@@ -1,6 +1,10 @@
 # A Journey to Agentic AI
 
-The web page for this repo is [https://github.com/wrijugh/agentic-ai](https://github.com/wrijugh/agentic-ai).
+Learn Generative AI, LLM, Agent, Workflow. 
+
+Web Site is [https://wrijugh.github.io/agentic-ai/](https://wrijugh.github.io/agentic-ai/)
+
+The GitHub repo is [https://github.com/wrijugh/agentic-ai](https://github.com/wrijugh/agentic-ai).
 
 Agentic AI Series YouTube videos, please [subscribe](https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1).
 
@@ -76,9 +80,10 @@ Build and host a container based LLM application series.
 | Title | YouTube Video |
 | ----- | ----- |
 | Python Programming Basics #AIAppDev | [https://youtu.be/IODt0XBzasg](https://youtu.be/IODt0XBzasg) |
-| Vector Embedding Explained | [https://youtu.be/39_Cytthp1w](https://youtu.be/39_Cytthp1w) |
+| Vector Embedding Explained (Maths) | [https://youtu.be/39_Cytthp1w](https://youtu.be/39_Cytthp1w) |
 | Retrieval Augmented Generation (RAG) - Whiteboard | [https://youtu.be/ca6zNpdVK28](https://youtu.be/ca6zNpdVK28) |
-| Build AI Application using DeepSeek-R1 | Microsoft Foundry | [https://youtu.be/nrWCj_-iq-8](https://youtu.be/nrWCj_-iq-8) |
+| Build AI Application using DeepSeek-R1 | [https://youtu.be/nrWCj_-iq-8](https://youtu.be/nrWCj_-iq-8) |
+| ComingSoon | []() |
 | ComingSoon | []() |
 
 ## Intent
