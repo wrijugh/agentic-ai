@@ -3,6 +3,21 @@ Agentic AI Series of Videos for YouTube https://www.youtube.com/@TechTalksWriju
 
 ## Flow of the tracks
 
+## Microsoft Foundry
+
+
+## Agent Framework
+
+| Title | YouTube Video | Code |
+| ----- | ----- | ----- |
+| Simple Agent | https://youtu.be/kJP8vhXcszM | [01-agent-simple.py](python-code/agent-framework/01-agent-simple.py) |
+| Agent and Tools | Coming Soon | [Sample Code] |
+| Agent and Tools | Coming Soon | [Sample Code] |
+| Agent and Tools | Coming Soon | [Sample Code] |
+| Agent and Tools | Coming Soon | [Sample Code] |
+
+## Using LLM in Application
+
 | Title | YouTube Video | Code |
 | ----- | ----- | ----- |
 | Azure AI Foundry | Coming Soon | Coming Soon |
