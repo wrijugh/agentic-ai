@@ -8,6 +8,8 @@ The GitHub repo is [https://github.com/wrijugh/agentic-ai](https://github.com/wr
 
 Agentic AI Series YouTube videos, please [subscribe](https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1).
 
+34 videos and counting... Please let me know what you want next. 
+
 ## Flow of the tracks
 Play with Foundry > Build Simple LLM app > Build Agent and Workflow
 
