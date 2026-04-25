@@ -94,7 +94,8 @@ Here I am going to use:
 - Local development with Visual Studio Code and Python runtime in Windows or in Linux (Ubuntu or remote server).
 
 ## Contact 
-- LinkedIn https://www.linkedin.com/in/wrijughosh
+- LinkedIn [https://www.linkedin.com/in/wrijughosh](https://www.linkedin.com/in/wrijughosh)
+
 ![LinkedIn](images/LinkedInQR.jpeg)
 
 
