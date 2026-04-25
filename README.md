@@ -8,7 +8,7 @@ The GitHub repo is [https://github.com/wrijugh/agentic-ai](https://github.com/wr
 
 Agentic AI Series YouTube videos, please [subscribe](https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1).
 
-34 videos and counting... Please let me know what you want next. 
+37 videos and counting... Please let me know what you want next. 
 
 ## Flow of the tracks
 Play with Foundry > Build Simple LLM app > Build Agent and Workflow
@@ -72,6 +72,7 @@ Build and host a container based LLM application series.
 | Creating Azure Resources | [https://youtu.be/6Xs-KfHX6t8](https://youtu.be/6Xs-KfHX6t8) |
 | Environment variables and Jupyter notebook | [https://youtu.be/jyemcT4EX5g](https://youtu.be/jyemcT4EX5g) |
 | Orchestration using LangChain and Prompt Template | [https://youtu.be/XzVFfw_YLy8](https://youtu.be/XzVFfw_YLy8) |
+| Quick website using streamlit | [https://youtu.be/a3oLuQL_nT0](https://youtu.be/a3oLuQL_nT0) |
 | Build and test the streamlit Webapp | [https://youtu.be/mW95mzbPJRc](https://youtu.be/mW95mzbPJRc) |
 | Containerize the streamlit Webapp | [https://youtu.be/2_yGZU5BPso](https://youtu.be/2_yGZU5BPso) |
 | Host the Containerized app to Azure | [https://youtu.be/RNLDGHrniPU](https://youtu.be/RNLDGHrniPU) |
