@@ -7,18 +7,18 @@ Agentic AI Series of Videos for YouTube, please subscribe https://www.youtube.co
 
 | Title | YouTube Video |
 | ----- | ----- |
-| Overview via Whiteboard| https://youtu.be/1FoS8C_0sIY |
-| Select, Deploy and Test your Large Language Model | https://youtu.be/fmMAONxEHsk |
-| Image Generation | https://youtu.be/Tmy1IQEwsXc |
-| Agent Service (no-code) | https://youtu.be/R6TakdSMWA8 |
-| Calling Agent from Application | https://youtu.be/ZPCcu4gADYE |
-| Multimodal | https://youtu.be/iR3hfHMxwLo |
-| Model Leader Board, Benchmark, Comparison, Cost | https://youtu.be/siYJh4WW8bM |
-| Content-Understanding | https://youtu.be/Is2_xqU1g-Q |
-| Model Fine-tuning | https://youtu.be/8NfUkCiwxPM |
-| Agent with MCP | https://youtu.be/FFdqjg_2Z1U |
-| Agent with PII Guardrail | https://youtu.be/VWbMUJFPFoc |
-| Foundry Build an Agent (no code) | https://youtu.be/u-vJo7yreqQ |
+| Overview via Whiteboard| [Watch the video](https://youtu.be/1FoS8C_0sIY) |
+| Select, Deploy and Test your Large Language Model | [Watch the video](https://youtu.be/fmMAONxEHsk) |
+| Image Generation | [Watch the video](https://youtu.be/Tmy1IQEwsXc) |
+| Agent Service (no-code) | [Watch the video](https://youtu.be/R6TakdSMWA8) |
+| Calling Agent from Application | [Watch the video](https://youtu.be/ZPCcu4gADYE) |
+| Multimodal | [Watch the video](https://youtu.be/iR3hfHMxwLo) |
+| Model Leader Board, Benchmark, Comparison, Cost | [Watch the video](https://youtu.be/siYJh4WW8bM) |
+| Content-Understanding | [Watch the video](https://youtu.be/Is2_xqU1g-Q) |
+| Model Fine-tuning | [Watch the video](https://youtu.be/8NfUkCiwxPM) |
+| Agent with MCP | [Watch the video](https://youtu.be/FFdqjg_2Z1U) |
+| Agent with PII Guardrail | [Watch the video](https://youtu.be/VWbMUJFPFoc) |
+| Foundry Build an Agent (no code) | [Watch the video](https://youtu.be/u-vJo7yreqQ) |
 
 ## Agent Framework
 
@@ -26,8 +26,8 @@ Agentic AI Series of Videos for YouTube, please subscribe https://www.youtube.co
 
 | Title | YouTube Video | Code |
 | ----- | ----- | ----- |
-| Simple Agent | https://youtu.be/kJP8vhXcszM | [01-agent-simple.py](python-code/agent-framework/01-agent-simple.py) |
-| Agent and Tools | https://youtu.be/NqE4ODHLOp8 | [02-agent-tool.py](python-code/agent-framework/02-agent-tool.py) |
+| Simple Agent | [Watch the video](https://youtu.be/kJP8vhXcszM) | [01-agent-simple.py](python-code/agent-framework/01-agent-simple.py) |
+| Agent and Tools | [Watch the video](https://youtu.be/NqE4ODHLOp8) | [02-agent-tool.py](python-code/agent-framework/02-agent-tool.py) |
 | Session Management | https://youtu.be/fVcDr3AKiLg | [03-agent-session.py](python-code/agent-framework/03-agent-session.py) |
 | Memory and Context | https://youtu.be/ie07WykknI8 | [04-agent-memories.py](python-code/agent-framework/04-agent-memories.py) |
 | Agent | ComingSoon | [SampleCode] |  
@@ -45,12 +45,23 @@ Using GitHub Models and OpenAI SDK
 
 | Title | YouTube Video |
 | ----- | ----- |
-| GitHub Free AI Models for Learning and Development | https://youtu.be/eOe-8abcT60 |
-| Setting Dev Environment | https://youtu.be/EumJXeAAAUU |
-| LLM Simple Chat Application | https://youtu.be/57sEgcvfCf4 |
-| Embedding | https://youtu.be/bW6hXoadntc |
-| Simple RAG with CSV | https://youtu.be/ScflzM-lapY |
-| RAG with Chroma CSV using Langchain | https://youtu.be/z2mKmPQ_lsk |
+| GitHub Free AI Models for Learning and Development | [Watch the video](https://youtu.be/eOe-8abcT60) |
+| Setting Dev Environment | [Watch the video](https://youtu.be/EumJXeAAAUU) |
+| LLM Simple Chat Application | [Watch the video](https://youtu.be/57sEgcvfCf4) |
+| Embedding | [Watch the video](https://youtu.be/bW6hXoadntc) |
+| Simple RAG with CSV | [Watch the video](https://youtu.be/ScflzM-lapY) |
+| RAG with Chroma CSV using Langchain | [Watch the video](https://youtu.be/z2mKmPQ_lsk) |
+
+## Build and host end to end application using LLM
+Build and host a container based LLM application series. 
+| Title | YouTube Video |
+| ----- | ----- |
+| Setting up the Development Environment | [Watch the video](https://youtu.be/9bbNbukPT2Y) |
+| comingSoon | [Watch the video]() |
+| comingSoon | [Watch the video]() |
+| comingSoon | [Watch the video]() |
+| comingSoon | [Watch the video]() |
+| comingSoon | [Watch the video]() |
 
 ## Intent
 The whole intent of this series to tell you all that it is easy to build an Agentic AI application. There are many ways to achieve this via different LLM models and SDKs. We need to select which works the best for us. 
