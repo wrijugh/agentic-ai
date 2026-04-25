@@ -56,12 +56,14 @@ Using GitHub Models and OpenAI SDK
 Build and host a container based LLM application series. 
 | Title | YouTube Video |
 | ----- | ----- |
-| Setting up the Development Environment | [Watch the video](https://youtu.be/9bbNbukPT2Y) |
-| comingSoon | [Watch the video]() |
-| comingSoon | [Watch the video]() |
-| comingSoon | [Watch the video]() |
-| comingSoon | [Watch the video]() |
-| comingSoon | [Watch the video]() |
+| Setting up the Development Environment | [https://youtu.be/9bbNbukPT2Y](https://youtu.be/9bbNbukPT2Y) |
+| Creating Azure Resources | [https://youtu.be/6Xs-KfHX6t8](https://youtu.be/6Xs-KfHX6t8) |
+| Environment variables and Jupyter notebook | [https://youtu.be/jyemcT4EX5g](https://youtu.be/jyemcT4EX5g) |
+| Orchestration using LangChain and Prompt Template | [https://youtu.be/XzVFfw_YLy8](https://youtu.be/XzVFfw_YLy8) |
+| Build and test the streamlit Webapp | [https://youtu.be/mW95mzbPJRc](https://youtu.be/mW95mzbPJRc) |
+| Containerize the streamlit Webapp | [https://youtu.be/2_yGZU5BPso](https://youtu.be/2_yGZU5BPso) |
+| Host the Containerized app to Azure | [https://youtu.be/RNLDGHrniPU](https://youtu.be/RNLDGHrniPU) |
+| Making changes to the App | [https://youtu.be/FRK_PZFKTpU](https://youtu.be/FRK_PZFKTpU) |
 
 ## Intent
 The whole intent of this series to tell you all that it is easy to build an Agentic AI application. There are many ways to achieve this via different LLM models and SDKs. We need to select which works the best for us. 
