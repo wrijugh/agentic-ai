@@ -86,8 +86,7 @@ Build and host a container based LLM application series.
 | Vector Embedding Explained (Maths) | [https://youtu.be/39_Cytthp1w](https://youtu.be/39_Cytthp1w) |
 | Retrieval Augmented Generation (RAG) - Whiteboard | [https://youtu.be/ca6zNpdVK28](https://youtu.be/ca6zNpdVK28) |
 | Build AI Application using DeepSeek-R1 | [https://youtu.be/nrWCj_-iq-8](https://youtu.be/nrWCj_-iq-8) |
-| ComingSoon | []() |
-| ComingSoon | []() |
+<!-- | ComingSoon | []() | -->
 
 ## Intent
 The whole intent of this series to tell you all that it is easy to build an Agentic AI application. There are many ways to achieve this via different LLM models and SDKs. We need to select which works the best for us. 
