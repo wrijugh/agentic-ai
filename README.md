@@ -26,18 +26,18 @@ Agentic AI Series of Videos for YouTube, please subscribe https://www.youtube.co
 
 | Title | YouTube Video | Code |
 | ----- | ----- | ----- |
-| Simple Agent | [Watch the video](https://youtu.be/kJP8vhXcszM) | [01-agent-simple.py](python-code/agent-framework/01-agent-simple.py) |
-| Agent and Tools | [Watch the video](https://youtu.be/NqE4ODHLOp8) | [02-agent-tool.py](python-code/agent-framework/02-agent-tool.py) |
-| Session Management | https://youtu.be/fVcDr3AKiLg | [03-agent-session.py](python-code/agent-framework/03-agent-session.py) |
-| Memory and Context | https://youtu.be/ie07WykknI8 | [04-agent-memories.py](python-code/agent-framework/04-agent-memories.py) |
+| Simple Agent | [https://youtu.be/kJP8vhXcszM](https://youtu.be/kJP8vhXcszM) | [01-agent-simple.py](python-code/agent-framework/01-agent-simple.py) |
+| Agent and Tools | [https://youtu.be/NqE4ODHLOp8](https://youtu.be/NqE4ODHLOp8) | [02-agent-tool.py](python-code/agent-framework/02-agent-tool.py) |
+| Session Management | [https://youtu.be/fVcDr3AKiLg](https://youtu.be/fVcDr3AKiLg) | [03-agent-session.py](python-code/agent-framework/03-agent-session.py) |
+| Memory and Context | [https://youtu.be/ie07WykknI8](https://youtu.be/ie07WykknI8) | [04-agent-memories.py](python-code/agent-framework/04-agent-memories.py) |
 | Agent | ComingSoon | [SampleCode] |  
 
 ### Workflow
 
 | Title | YouTube Video | Code |
 | ----- | ----- | ----- |
-| Simple Workflow | https://youtu.be/DykZUwOwvEk | [10-workflow-simple.py](python-code/agent-framework/10-workflow-simple.py) |
-| Parallel Workflow (Fan Out/In) | https://youtu.be/Z_KpZ1MiFSc | [11-workflow-agent.py](python-code/agent-framework/11-workflow-agent.py)
+| Simple Workflow | [https://youtu.be/DykZUwOwvEk](https://youtu.be/DykZUwOwvEk) | [10-workflow-simple.py](python-code/agent-framework/10-workflow-simple.py) |
+| Parallel Workflow (Fan Out/In) | [https://youtu.be/Z_KpZ1MiFSc](https://youtu.be/Z_KpZ1MiFSc) | [11-workflow-agent.py](python-code/agent-framework/11-workflow-agent.py)
 | Workflow | ComingSoon | [SampleCode] |
 
 ## Using LLM in Application
