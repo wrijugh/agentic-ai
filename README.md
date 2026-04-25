@@ -41,6 +41,7 @@ Agentic AI Series of Videos for YouTube, please subscribe https://www.youtube.co
 | Workflow | ComingSoon | [SampleCode] |
 
 ## Using LLM in Application
+Using GitHub Models and OpenAI SDK
 
 | Title | YouTube Video |
 | ----- | ----- |
