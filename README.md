@@ -1,7 +1,12 @@
 # A Journey to Agentic AI
-Agentic AI Series of Videos for YouTube, please subscribe https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1
+
+The web page for this repo is [https://github.com/wrijugh/agentic-ai](https://github.com/wrijugh/agentic-ai).
+
+Agentic AI Series YouTube videos, please [subscribe](https://www.youtube.com/c/TechTalksWriju?sub_confirmation=1).
 
 ## Flow of the tracks
+Play with Foundry > Build Simple LLM app > Build Agent and Workflow
+
 
 ## Microsoft Foundry
 
@@ -65,6 +70,16 @@ Build and host a container based LLM application series.
 | Containerize the streamlit Webapp | [https://youtu.be/2_yGZU5BPso](https://youtu.be/2_yGZU5BPso) |
 | Host the Containerized app to Azure | [https://youtu.be/RNLDGHrniPU](https://youtu.be/RNLDGHrniPU) |
 | Making changes to the App | [https://youtu.be/FRK_PZFKTpU](https://youtu.be/FRK_PZFKTpU) |
+
+## Bonous Content
+
+| Title | YouTube Video |
+| ----- | ----- |
+| Python Programming Basics #AIAppDev | [https://youtu.be/IODt0XBzasg](https://youtu.be/IODt0XBzasg) |
+| Vector Embedding Explained | [https://youtu.be/39_Cytthp1w](https://youtu.be/39_Cytthp1w) |
+| Retrieval Augmented Generation (RAG) - Whiteboard | [https://youtu.be/ca6zNpdVK28](https://youtu.be/ca6zNpdVK28) |
+| Build AI Application using DeepSeek-R1 | Microsoft Foundry | [https://youtu.be/nrWCj_-iq-8](https://youtu.be/nrWCj_-iq-8) |
+| ComingSoon | []() |
 
 ## Intent
 The whole intent of this series to tell you all that it is easy to build an Agentic AI application. There are many ways to achieve this via different LLM models and SDKs. We need to select which works the best for us. 
