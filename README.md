@@ -54,6 +54,7 @@ Using GitHub Models and OpenAI SDK
 
 ## Build and host end to end application using LLM
 Build and host a container based LLM application series. 
+
 | Title | YouTube Video |
 | ----- | ----- |
 | Setting up the Development Environment | [https://youtu.be/9bbNbukPT2Y](https://youtu.be/9bbNbukPT2Y) |
