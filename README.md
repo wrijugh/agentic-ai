@@ -37,7 +37,7 @@ Agentic AI Series of Videos for YouTube, please subscribe https://www.youtube.co
 | Title | YouTube Video | Code |
 | ----- | ----- | ----- |
 | Simple Workflow | https://youtu.be/DykZUwOwvEk | [10-workflow-simple.py](python-code/agent-framework/10-workflow-simple.py) |
-| Parallel Workflow (Fan Out/In) | https://youtu.be/Z_KpZ1MiFSc | [SampleCode](python-code/agent-framework/11-workflow-agent.py
+| Parallel Workflow (Fan Out/In) | https://youtu.be/Z_KpZ1MiFSc | [11-workflow-agent.py](python-code/agent-framework/11-workflow-agent.py)
 | Workflow | ComingSoon | [SampleCode] |
 
 ## Using LLM in Application
