@@ -1,0 +1,9 @@
+openai
+pymupdf4llm
+lunr
+sentence-transformers
+
+langchain 
+langchain-openai 
+langchain-community 
+chromadb
