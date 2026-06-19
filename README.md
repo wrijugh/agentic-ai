@@ -1,5 +1,7 @@
 # A Journey to Agentic AI
 
+![QR](images/agentic-ai-qr-code.png)
+
 Learn Generative AI, LLM, Agent, Workflow. 
 
 Web Site is [https://wrijugh.github.io/agentic-ai/](https://wrijugh.github.io/agentic-ai/)
