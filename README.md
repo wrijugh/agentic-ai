@@ -81,7 +81,7 @@ Build and host a container based LLM application series.
 | Host the Containerized app to Azure | [https://youtu.be/RNLDGHrniPU](https://youtu.be/RNLDGHrniPU) |
 | Making changes to the App | [https://youtu.be/FRK_PZFKTpU](https://youtu.be/FRK_PZFKTpU) |
 
-## Bonous Content
+## Bonus Content
 
 | Title | YouTube Video |
 | ----- | ----- |
