@@ -50,8 +50,9 @@ Play with Foundry > Build Simple LLM app > Build Agent and Workflow
 | Title | YouTube Video | Code |
 | ----- | ----- | ----- |
 | Simple Workflow | [https://youtu.be/DykZUwOwvEk](https://youtu.be/DykZUwOwvEk) | [10-workflow-simple.py](python-code/agent-framework/10-workflow-simple.py) |
-| Parallel Workflow (Fan Out/In) | [https://youtu.be/Z_KpZ1MiFSc](https://youtu.be/Z_KpZ1MiFSc) | [11-workflow-agent.py](python-code/agent-framework/11-workflow-agent.py)
-| Workflow | ComingSoon | [SampleCode] |
+| Parallel Workflow (Fan Out/In) | [https://youtu.be/Z_KpZ1MiFSc](https://youtu.be/Z_KpZ1MiFSc) | [11-workflow-agent-parallel.py](python-code/agent-framework/11-workflow-agent-parallel.py)
+| Human in the Loop with CosmosDB | [https://youtu.be/R4QrbLdex6Y](https://youtu.be/R4QrbLdex6Y) | [12-agent-framework-human-in-the-loop-cosmosdb](python-code/agent-framework/12-agent-framework-human-in-the-loop-cosmosdb) |
+| Workflow | [YouTube] | [SampleCode] |
 
 ## Using LLM in Application
 Using GitHub Models and OpenAI SDK
